@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e91cc35e.css","mappings":"AAAA,QACE,eACF,CAEC,OACC,YAAa,CACb,wBAAyB,CACzB,iBAAkB,CAClB,OACF","sources":["App.css"],"sourcesContent":["#margin {\n  margin-top: 3rem;\n}\n\n #badge {\n  display: flex;\n  justify-content: flex-end;\n  position: absolute; \n  right: 0;\n} "],"names":[],"sourceRoot":""}
